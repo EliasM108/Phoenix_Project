@@ -29,7 +29,7 @@ While this project is not currently intended for general use, it serves as a dem
 
 The Phoenix Project is in its early stages and is primarily for personal use. As such, it is not available for general distribution at this time. However, its functionality showcases the potential of a highly adaptable, personalized AI assistant.
 
-For those interested, the software can be downloaded from the [Releases Tab](https://github.com/EliasM108/Phoenix_Project/releases). Please note that the project may require configuration and adjustments to function as intended.
+The software can be downloaded from the [Releases Tab](https://github.com/EliasM108/Phoenix_Project/releases). Please note that the project may require configuration and adjustments to function as intended.
 
 ---
 
